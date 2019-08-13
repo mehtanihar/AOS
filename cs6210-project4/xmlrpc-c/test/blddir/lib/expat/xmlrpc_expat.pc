@@ -1,0 +1,7 @@
+Name:        xmlrpc_expat
+Description: Xmlrpc-c XML parsing library
+Version:     1.54.0
+
+Requires: xmlrpc_util
+Libs:     -L/usr/local/lib -lxmlrpc_xmlparse -lxmlrpc_xmltok
+Cflags:   -I/usr/local/include

@@ -1,0 +1,32 @@
+#
+#######################################################
+# From 'shell_config'
+#######################################################
+ENABLE_ABYSS_THREADS="yes"
+THREAD_LIBS=""
+ENABLE_LIBXML2_BACKEND="no"
+MUST_BUILD_WININET_CLIENT="no"
+MUST_BUILD_CURL_CLIENT="yes"
+MUST_BUILD_LIBWWW_CLIENT="no"
+NEED_RPATH="no"
+NEED_WL_RPATH="no"
+LIBXMLRPCPP_NAME="xmlrpc++"
+SOCKETLIBOPT=""
+WININET_LDADD=""
+WININET_LIBDIR=""
+CURL_LDADD="-L/usr/local/lib -lcurl"
+CURL_LIBDIR="/usr/local/lib"
+LIBWWW_LDADD=""
+LIBWWW_LIBDIR=""
+XMLRPC_MAJOR_RELEASE="1"
+XMLRPC_MINOR_RELEASE="54"
+XMLRPC_POINT_RELEASE="0"
+FEATURE_LIST="c++ abyss-server curl-client "
+PREFIX="/usr/local"
+HEADERINST_DIR="/usr/local/include"
+LIBINST_DIR="/usr/local/lib"
+BLDDIR="/home/nihar/Documents/AOS/assignment4/xmlrpc-c"
+ABS_SRCDIR="/home/nihar/Documents/AOS/assignment4/xmlrpc-c"
+ABYSS_DOES_OPENSSL="yes"
+OPENSSL_LDADD="-lssl -lcrypto"
+#######################################################

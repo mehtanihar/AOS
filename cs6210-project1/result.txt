@@ -1,0 +1,1242 @@
+
+Thread(id:0, group:0) started
+Thread(id:2, group:2) started
+Thread(id:3, group:3) started
+Thread(id:1, group:1) started
+Thread(id:3, group:3) finished (TIME : 1549308084 s and 295310 us)
+
+Thread(id:2, group:2) finished (TIME : 1549308084 s and 295367 us)
+
+Thread(id:1, group:1) finished (TIME : 1549308084 s and 295370 us)
+
+Thread(id:4, group:4) started
+Thread(id:16, group:0) started
+Thread(id:24, group:0) started
+Thread(id:5, group:5) startedkthread(1) created !!
+kthread(2) created !!
+kthread(3) created !!
+kthread(4) created !!
+kthread(5) created !!
+kthread(6) created !!
+kthread(7) created !!
+Thread ID : 0 weight : 25 created 
+Thread ID : 1 weight : 25 created 
+Load Balanced from cpu 2 to cpu 1 weight : 25 created 
+Load Balanced from cpu 6 to cpu 1 
+Thread ID : 3 weight : 25 created 
+Load Balanced from cpu 5 to cpu 1 
+Thread ID : 4 weight : 25 created 
+Thread ID : 5 weight : 25 created 
+Thread ID : 6 weight : 25 created 
+Thread ID : 7 weight : 25 created 
+Thread ID : 8 weight : 25 created 
+Thread ID : 9 weight : 25 created 
+Thread ID : 10 weight : 25 created 
+Thread ID : 11 weight : 25 created 
+Thread ID : 12 weight : 25 created 
+Thread ID : 13 weight : 25 created 
+Thread ID : 14 weight : 25 created 
+Thread ID : 15 weight : 25 created 
+Thread ID : 16 weight : 25 created 
+Thread ID : 17 weight : 25 created 
+Thread ID : 18 weight : 25 created 
+Thread_id: 0 scheduling done. New credit: 25 
+Thread id 0 preempted. Remaining 25 credits 
+Thread ID : 19 weight : 25 created 
+Thread ID : 20 weight : 25 created 
+Thread ID : 21 weight : 25 created 
+Thread ID : 22 weight : 25 created 
+Thread ID : 23 weight : 25 created 
+Thread ID : 24 weight : 25 created 
+Thread ID : 25 weight : 25 created 
+Thread ID : 26 weight : 25 created 
+Thread ID : 27 weight : 25 created 
+Thread ID : 28 weight : 25 created 
+Thread ID : 29 weight : 25 created 
+Thread ID : 30 weight : 25 created 
+Thread ID : 31 weight : 25 created 
+Thread_id: 3 scheduling done. New credit: 25 
+Current uthread id: 3 Running_time: 395 Total_time: 411 
+Thread_id: 2 scheduling done. New credit: 25 
+Current uthread id: 2 Running_time: 456 Total_time: 469 
+Load Balanced from cpu 6 to cpu 1 
+Thread_id: 1 scheduling done. New credit: 25 
+Current uthread id: 1 Running_time: 449 Total_time: 474 
+Load Balanced from cpu 3 to cpu 1 
+Thread ID : 32 weight : 50 created 
+Thread ID : 33 weight : 50 created 
+Thread ID : 34 weight : 50 created 
+Thread ID : 35 weight : 50 created 
+Thread ID : 36 weight : 50 created 
+Thread ID : 37 weight : 50 created 
+Thread ID : 38 weight : 50 created 
+Thread ID : 39 weight : 50 created 
+Thread ID : 40 weight : 50 created 
+Thread ID : 41 weight : 50 created 
+Thread ID : 42 weight : 50 created 
+Thread ID : 43 weight : 50 created 
+Thread ID : 44 weight : 50 created 
+Thread ID : 45 weight : 50 created 
+Thread ID : 46 weight : 50 created 
+Thread ID : 47 weight : 50 created 
+Thread ID : 48 weight : 50 created 
+Thread ID : 49 weight : 50 created 
+Thread ID : 50 weight : 50 created 
+Thread ID : 51 weight : 50 created 
+Thread ID : 52 weight : 50 created 
+Thread ID : 53 weight : 50 created 
+Thread ID : 54 weight : 50 created 
+Thread ID : 55 weight : 50 created 
+Thread ID : 56 weight : 50 created 
+Thread ID : 57 weight : 50 created 
+Thread ID : 58 weight : 50 created 
+Thread ID : 59 weight : 50 created 
+Thread ID : 60 weight : 50 created 
+Thread ID : 61 weight : 50 created 
+Thread ID : 62 weight : 50 created 
+Thread ID : 63 weight : 50 created 
+Thread ID : 64 weight : 75 created 
+Thread ID : 65 weight : 75 created 
+Thread ID : 66 weight : 75 created 
+Thread ID : 67 weight : 75 created 
+Thread ID : 68 weight : 75 created 
+Thread ID : 69 weight : 75 created 
+Thread ID : 70 weight : 75 created 
+Thread ID : 71 weight : 75 created 
+Thread ID : 72 weight : 75 created 
+Thread ID : 73 weight : 75 created 
+Thread ID : 74 weight : 75 created 
+Thread ID : 75 weight : 75 created 
+Thread ID : 76 weight : 75 created 
+Thread ID : 77 weight : 75 created 
+Thread ID : 78 weight : 75 created 
+Thread ID : 79 weight : 75 created 
+Thread ID : 80 weight : 75 created 
+Thread ID : 81 weight : 75 created 
+Thread ID : 82 weight : 75 created 
+Thread ID : 83 weight : 75 created 
+Thread ID : 84 weight : 75 created 
+Thread ID : 85 weight : 75 created 
+Thread ID : 86 weight : 75 created 
+Thread ID : 87 weight : 75 created 
+Thread ID : 88 weight : 75 created 
+Thread ID : 89 weight : 75 created 
+Thread ID : 90 weight : 75 created 
+Thread ID : 91 weight : 75 created 
+Thread ID : 92 weight : 75 created 
+Thread ID : 93 weight : 75 created 
+Thread I
+Thread(id:56, group:0) started
+Thread(id:4, group:4) finished (TIME : 1549308084 s and 302590 us)
+
+Thread(id:64, group:0) started
+Thread(id:5, group:5) finished (TIME : 1549308084 s and 302632 us)
+
+Thread(id:32, group:0) started
+Thread(id:64, group:0) finished (TIME : 1549308084 s and 302974 us)
+
+Thread(id:65, group:1) started
+Thread(id:32, group:0) finished (TIME : 1549308084 s and 303013 us)
+
+Thread(id:96, group:0) started
+Thread(id:8, group:0) started
+Thread(id:65, group:1) finished (TIME : 1549308084 s and 303362 us)
+
+Thread(id:66, group:2) started
+Thread(id:66, group:2) finished (TIME : 1549308084 s and 304285 us)
+
+Thread(id:67, group:3) started
+Thread(id:67, group:3) finished (TIME : 1549308084 s and 304663 us)
+
+Thread(id:68, group:4) started
+Thread(id:68, group:4) finished (TIME : 1549308084 s and 305047 us)
+
+Thread(id:69, group:5) started
+Thread(id:69, group:5) finished (TIME : 1549308084 s and 305427 us)
+
+Thread(id:70, group:6) started
+Thread(id:7, group:7) started
+Thread(id:7, group:7) finished (TIME : 1549308084 s and 305820 us)
+
+Thread(id:71, group:7) started
+Thread(id:71, group:7) finished (TIME : 1549308084 s and 306201 us)
+
+Thread(id:120, group:0) started
+Thread(id:57, group:1) started
+Thread(id:96, group:0) finished (TIME : 1549308084 s and 303395 us)
+
+Thread(id:48, group:0) started
+Thread(id:6, group:6) started
+Thread(id:33, group:1) started
+Thread(id:33, group:1) finished (TIME : 1549308084 s and 306570 us)
+
+Thread(id:97, group:1) started
+Thread(id:6, group:6) finished (TIME : 1549308084 s and 306637 us)
+
+Thread(id:40, group:0) started
+Thread(id:104, group:0) started
+Thread(id:97, group:1) finished (TIME : 1549308084 s and 306881 us)
+
+Thread(id:34, group:2) started
+Thread(id:34, group:2) finished (TIME : 1549308084 s and 307195 us)
+
+Thread(id:98, group:2) started
+Thread(id:98, group:2) finished (TIME : 1549308084 s and 307505 us)
+
+Thread(id:35, group:3) started
+Thread(id:35, group:3) finished (TIME : 1549308084 s and 307815 us)
+
+Thread(id:99, group:3) started
+Thread(id:99, group:3) finished (TIME : 1549308084 s and 308127 us)
+
+Thread(id:36, group:4) started
+Thread(id:36, group:4) finished (TIME : 1549308084 s and 308435 us)
+
+Thread(id:100, group:4) started
+Thread(id:37, group:5) started
+Thread(id:37, group:5) finished (TIME : 1549308084 s and 308753 us)
+
+Thread(id:101, group:5) started
+Thread(id:101, group:5) finished (TIME : 1549308084 s and 309064 us)
+
+Thread(id:38, group:6) started
+Thread(id:38, group:6) finished (TIME : 1549308084 s and 309372 us)
+D : 94 weight : 75 created 
+Thread ID : 95 weight : 75 created 
+Thread ID : 96 weight : 100 created 
+Thread ID : 97 weight : 100 created 
+Thread ID : 98 weight : 100 created 
+Thread ID : 99 weight : 100 created 
+Thread ID : 100 weight : 100 created 
+Thread ID : 101 weight : 100 created 
+Thread ID : 102 weight : 100 created 
+Thread ID : 103 weight : 100 created 
+Thread ID : 104 weight : 100 created 
+Thread ID : 105 weight : 100 created 
+Thread ID : 106 weight : 100 created 
+Thread ID : 107 weight : 100 created 
+Thread ID : 108 weight : 100 created 
+Thread ID : 109 weight : 100 created 
+Thread ID : 110 weight : 100 created 
+Thread ID : 111 weight : 100 created 
+Thread ID : 112 weight : 100 created 
+Thread ID : 113 weight : 100 created 
+Thread ID : 114 weight : 100 created 
+Thread ID : 115 weight : 100 created 
+Thread ID : 116 weight : 100 created 
+Thread ID : 117 weight : 100 created 
+Thread ID : 118 weight : 100 created 
+Thread ID : 119 weight : 100 created 
+Thread ID : 120 weight : 100 created 
+Thread ID : 121 weight : 100 created 
+Thread ID : 122 weight : 100 created 
+Thread ID : 123 weight : 100 created 
+Thread ID : 124 weight : 100 created 
+Thread ID : 125 weight : 100 created 
+Thread ID : 126 weight : 100 created 
+Thread ID : 127 weight : 100 created 
+Thread_id: 4 scheduling done. New credit: 23 
+Current uthread id: 4 Running_time: 7645 Total_time: 7686 
+Thread_id: 5 scheduling done. New credit: 25 
+Current uthread id: 5 Running_time: 384 Total_time: 7725 
+Thread_id: 64 scheduling done. New credit: 75 
+Current uthread id: 64 Running_time: 379 Total_time: 667 
+Thread_id: 32 scheduling done. New credit: 50 
+Current uthread id: 32 Running_time: 377 Total_time: 8049 
+Thread_id: 65 scheduling done. New credit: 75 
+Current uthread id: 65 Running_time: 918 Total_time: 1589 
+Thread_id: 66 scheduling done. New credit: 75 
+Current uthread id: 66 Running_time: 380 Total_time: 1971 
+Thread_id: 67 scheduling done. New credit: 75 
+Current uthread id: 67 Running_time: 376 Total_time: 2351 
+Thread_id: 68 scheduling done. New credit: 75 
+Current uthread id: 68 Running_time: 378 Total_time: 2731 
+Thread_id: 69 scheduling done. New credit: 75 
+Current uthread id: 69 Running_time: 378 Total_time: 3110 
+Thread_id: 70 scheduling done. New credit: 75 
+Thread id 70 preempted. Remaining 75 credits 
+Thread_id: 7 scheduling done. New credit: 25 
+Current uthread id: 7 Running_time: 377 Total_time: 10910 
+Thread_id: 71 scheduling done. New credit: 75 
+Current uthread id: 71 Running_time: 374 Total_time: 3878 
+Load Balanced from cpu 4 to cpu 0 
+Thread_id: 120 scheduling done. New credit: 100 
+Thread id 120 preempted. Remaining 100 credits 
+Load Balanced from cpu 4 to cpu 0 
+Thread_id: 96 scheduling done. New credit: 99 
+Current uthread id: 96 Running_time: 3222 Total_time: 3859 
+Thread_id: 33 scheduling done. New credit: 50 
+Current uthread id: 33 Running_time: 322 Total_time: 4332 
+Thread_id: 6 scheduling done. New credit: 25 
+Current uthread id: 6 Running_time: 393 Total_time: 11729 
+Thread_id: 40 scheduling done. New credit: 50 
+Thread id 40 preempted. Remaining 50 credits 
+Thread_id: 97 scheduling done. New credit: 100 
+Current uthread id: 97 Running_time: 306 Total_time: 4498 
+Thread_id: 34 scheduling done. New credit: 50 
+Current uthread id: 34 Running_time: 308 Total_time: 4952 
+Thread_id: 98 scheduling done. New credit: 100 
+Current uthread id: 98 Running_time: 307 Total_time: 5118 
+Thread_id: 35 scheduling done. New credit: 50 
+Current uthread id: 35 Running_time: 305 Total_time: 5570 
+Thread_id: 99 scheduling done. New credit: 100 
+Current uthread id: 99 Running_time: 307 Total_time: 5738 
+Thread_id: 36 scheduling done. New credit: 50 
+Current uthread id: 36 Running_time: 304 Total_time: 6189 
+Thread_id: 100 scheduling done. New credit: 100 
+Thread id 100 preempted. Remaining 100 credits 
+Thread_id: 37 scheduling done. New credit: 50 
+Current uthread id: 37 Running_time: 304 Total_time: 6504 
+Thread_id: 101 scheduling done. New credit: 100 
+Current uthread id: 101 Running_time: 306 Total_time: 6669 
+Thread_id: 38 scheduling done. New cr
+Thread(id:102, group:6) started
+Thread(id:104, group:0) finished (TIME : 1549308084 s and 309665 us)
+
+Thread(id:41, group:1) started
+Thread(id:102, group:6) finished (TIME : 1549308084 s and 309689 us)
+
+Thread(id:39, group:7) started
+Thread(id:39, group:7) finished (TIME : 1549308084 s and 309999 us)
+
+Thread(id:103, group:7) started
+Thread(id:103, group:7) finished (TIME : 1549308084 s and 310313 us)
+
+Thread(id:121, group:1) started
+Thread(id:8, group:0) finished (TIME : 1549308084 s and 315210 us)
+
+Thread(id:72, group:0) started
+Thread(id:41, group:1) finished (TIME : 1549308084 s and 320208 us)
+
+Thread(id:105, group:1) started
+Thread(id:105, group:1) finished (TIME : 1549308084 s and 323872 us)
+
+Thread(id:42, group:2) started
+Thread(id:72, group:0) finished (TIME : 1549308084 s and 325132 us)
+
+Thread(id:9, group:1) started
+Thread(id:42, group:2) finished (TIME : 1549308084 s and 328851 us)
+
+Thread(id:106, group:2) started
+Thread(id:9, group:1) finished (TIME : 1549308084 s and 332610 us)
+
+Thread(id:73, group:1) started
+Thread(id:106, group:2) finished (TIME : 1549308084 s and 335663 us)
+
+Thread(id:43, group:3) started
+Thread(id:48, group:0) finished (TIME : 1549308084 s and 338893 us)
+
+Thread(id:112, group:0) started
+Thread(id:43, group:3) finished (TIME : 1549308084 s and 341230 us)
+
+Thread(id:107, group:3) started
+Thread(id:16, group:0) finished (TIME : 1549308084 s and 341380 us)
+
+Thread(id:80, group:0) started
+Thread(id:17, group:1) started
+Thread(id:73, group:1) finished (TIME : 1549308084 s and 341562 us)
+
+Thread(id:10, group:2) started
+Thread(id:74, group:2) started
+Thread(id:107, group:3) finished (TIME : 1549308084 s and 348248 us)
+
+Thread(id:44, group:4) started
+Thread(id:44, group:4) finished (TIME : 1549308084 s and 355021 us)
+
+Thread(id:108, group:4) started
+Thread(id:74, group:2) finished (TIME : 1549308084 s and 357101 us)
+
+Thread(id:11, group:3) started
+Thread(id:108, group:4) finished (TIME : 1549308084 s and 357713 us)
+
+Thread(id:45, group:5) started
+Thread(id:11, group:3) finished (TIME : 1549308084 s and 361267 us)
+
+Thread(id:75, group:3) started
+Thread(id:45, group:5) finished (TIME : 1549308084 s and 364807 us)
+
+Thread(id:109, group:5) started
+Thread(id:75, group:3) finished (TIME : 1549308084 s and 365471 us)
+
+Thread(id:12, group:4) started
+Thread(id:12, group:4) finished (TIME : 1549308084 s and 368292 us)
+
+Thread(id:76, group:4) started
+Thread(id:109, group:5) finished (TIME : 1549308084 s and 371820 us)
+
+Thread(id:46, group:6) started
+Thread(id:46, group:6) finished (TIME : 1549308084 s and 378504 us)
+
+Thread(id:110, group:6) started
+Thread(id:47, group:7) started
+Thread(id:76, group:4) finished (TIME : 1549308084 s and 378966 us)
+
+Thread(id:13, group:5) started
+Thread(id:47, group:7) finished (TIME : 1549308084 s and 381579 us)
+
+Thread(id:111, group:7) started
+Thread(id:13, group:5) finished (TIME : 1549308084 s and 382075 us)
+
+Thread(id:77, group:5) started
+Thread(id:77, group:5) finished (TIME : 1549308084 s and 385176 us)
+
+Thread(id:14, group:6) started
+Thread(id:111, group:7) finished (TIME : 1549308084 s and 388197 us)
+
+Thread(id:58, group:2) started
+Thread(id:112, group:0) finished (TIME : 1549308084 s and 392754 us)
+
+Thread(id:49, group:1) started
+Thread(id:14, group:6) finished (TIME : 1549308084 s and 395329 us)
+
+Thread(id:78, group:6) started
+Thread(id:78, group:6) finished (TIME : 1549308084 s and 402912 us)
+
+Thread(id:15, group:7) started
+Thread(id:15, group:7) finished (TIME : 1549308084 s and 416640 us)
+edit: 50 
+Current uthread id: 38 Running_time: 304 Total_time: 7122 
+Thread_id: 104 scheduling done. New credit: 99 
+Current uthread id: 104 Running_time: 3010 Total_time: 7267 
+Thread_id: 102 scheduling done. New credit: 100 
+Current uthread id: 102 Running_time: 306 Total_time: 7293 
+Thread_id: 39 scheduling done. New credit: 50 
+Current uthread id: 39 Running_time: 306 Total_time: 7747 
+Thread_id: 103 scheduling done. New credit: 100 
+Current uthread id: 103 Running_time: 311 Total_time: 7916 
+Load Balanced from cpu 6 to cpu 0 
+Thread_id: 8 scheduling done. New credit: 20 
+Current uthread id: 8 Running_time: 15183 Total_time: 23509 
+Thread_id: 41 scheduling done. New credit: 47 
+Current uthread id: 41 Running_time: 11196 Total_time: 18612 
+Thread_id: 105 scheduling done. New credit: 99 
+Current uthread id: 105 Running_time: 4884 Total_time: 23359 
+Thread_id: 72 scheduling done. New credit: 72 
+Current uthread id: 72 Running_time: 9009 Total_time: 25120 
+Thread_id: 42 scheduling done. New credit: 49 
+Current uthread id: 42 Running_time: 3090 Total_time: 26599 
+Thread_id: 9 scheduling done. New credit: 22 
+Current uthread id: 9 Running_time: 9540 Total_time: 42075 
+Thread_id: 106 scheduling done. New credit: 97 
+Current uthread id: 106 Running_time: 9375 Total_time: 35836 
+Thread_id: 48 scheduling done. New credit: 39 
+Current uthread id: 48 Running_time: 33318 Total_time: 37287 
+Thread_id: 43 scheduling done. New credit: 50 
+Current uthread id: 43 Running_time: 2990 Total_time: 38976 
+Thread_id: 16 scheduling done. New credit: 12 
+Current uthread id: 16 Running_time: 39142 Total_time: 46454 
+Thread_id: 80 scheduling done. New credit: 75 
+Thread id 80 preempted. Remaining 75 credits 
+Thread_id: 73 scheduling done. New credit: 74 
+Current uthread id: 73 Running_time: 4561 Total_time: 39235 
+Thread_id: 10 scheduling done. New credit: 25 
+Thread id 10 preempted. Remaining 25 credits 
+Thread_id: 107 scheduling done. New credit: 98 
+Current uthread id: 107 Running_time: 7009 Total_time: 45849 
+Thread_id: 44 scheduling done. New credit: 48 
+Current uthread id: 44 Running_time: 6763 Total_time: 52765 
+Thread_id: 74 scheduling done. New credit: 70 
+Current uthread id: 74 Running_time: 15527 Total_time: 54778 
+Thread_id: 108 scheduling done. New credit: 100 
+Current uthread id: 108 Running_time: 2680 Total_time: 55310 
+Thread_id: 11 scheduling done. New credit: 24 
+Current uthread id: 11 Running_time: 4158 Total_time: 66353 
+Thread_id: 45 scheduling done. New credit: 48 
+Current uthread id: 45 Running_time: 7087 Total_time: 62550 
+Thread_id: 75 scheduling done. New credit: 74 
+Current uthread id: 75 Running_time: 4193 Total_time: 63143 
+Thread_id: 12 scheduling done. New credit: 25 
+Current uthread id: 12 Running_time: 2818 Total_time: 73375 
+Thread_id: 109 scheduling done. New credit: 98 
+Current uthread id: 109 Running_time: 7004 Total_time: 69419 
+Thread_id: 46 scheduling done. New credit: 48 
+Current uthread id: 46 Running_time: 6659 Total_time: 76241 
+Thread_id: 110 scheduling done. New credit: 100 
+Thread id 110 preempted. Remaining 100 credits 
+Thread_id: 76 scheduling done. New credit: 72 
+Current uthread id: 76 Running_time: 10655 Total_time: 76636 
+Thread_id: 47 scheduling done. New credit: 49 
+Current uthread id: 47 Running_time: 3053 Total_time: 79313 
+Thread_id: 13 scheduling done. New credit: 24 
+Current uthread id: 13 Running_time: 3098 Total_time: 87150 
+Thread_id: 77 scheduling done. New credit: 74 
+Current uthread id: 77 Running_time: 3099 Total_time: 82843 
+Thread_id: 111 scheduling done. New credit: 98 
+Current uthread id: 111 Running_time: 6612 Total_time: 85791 
+Load Balanced from cpu 3 to cpu 0 
+Thread_id: 112 scheduling done. New credit: 81 
+Current uthread id: 112 Running_time: 57907 Total_time: 95060 
+Thread_id: 14 scheduling done. New credit: 21 
+Current uthread id: 14 Running_time: 13145 Total_time: 103402 
+Thread_id: 78 scheduling done. New credit: 74 
+Current uthread id: 78 Running_time: 4579 Total_time: 100581 
+Thread_id: 15 scheduling done. New credit: 21 
+Current uthread id: 15 Running_time: 1371
+Thread(id:79, group:7) started
+Thread(id:79, group:7) finished (TIME : 1549308084 s and 419874 us)
+
+Thread(id:122, group:2) started
+Thread(id:17, group:1) finished (TIME : 1549308084 s and 425699 us)
+
+Thread(id:81, group:1) started
+Thread(id:49, group:1) finished (TIME : 1549308084 s and 450898 us)
+
+Thread(id:113, group:1) started
+Thread(id:59, group:3) started
+Thread(id:88, group:0) started
+Thread(id:123, group:3) started
+Thread(id:81, group:1) finished (TIME : 1549308084 s and 493601 us)
+
+Thread(id:18, group:2) started
+Thread(id:113, group:1) finished (TIME : 1549308084 s and 494528 us)
+
+Thread(id:50, group:2) started
+Thread(id:114, group:2) started
+Thread(id:114, group:2) finished (TIME : 1549308084 s and 539775 us)
+
+Thread(id:51, group:3) started
+Thread(id:18, group:2) finished (TIME : 1549308084 s and 565229 us)
+
+Thread(id:82, group:2) started
+Thread(id:51, group:3) finished (TIME : 1549308084 s and 607301 us)
+
+Thread(id:115, group:3) started
+Thread(id:82, group:2) finished (TIME : 1549308084 s and 626267 us)
+
+Thread(id:19, group:3) started
+Thread(id:115, group:3) finished (TIME : 1549308084 s and 647824 us)
+
+Thread(id:52, group:4) started
+Thread(id:60, group:4) started
+Thread(id:124, group:4) started
+Thread(id:61, group:5) started
+Thread(id:116, group:4) started
+Thread(id:83, group:3) started
+Thread(id:125, group:5) started
+Thread(id:116, group:4) finished (TIME : 1549308084 s and 751007 us)
+
+Thread(id:52, group:4) finished (TIME : 1549308084 s and 755626 us)
+
+Thread(id:53, group:5) started
+Thread(id:83, group:3) finished (TIME : 1549308084 s and 764396 us)
+
+Thread(id:19, group:3) finished (TIME : 1549308084 s and 770463 us)
+
+Thread(id:20, group:4) started
+Thread(id:84, group:4) started
+Thread(id:53, group:5) finished (TIME : 1549308084 s and 800608 us)
+
+Thread(id:117, group:5) started
+Thread(id:117, group:5) finished (TIME : 1549308084 s and 843405 us)
+
+Thread(id:54, group:6) started
+Thread(id:84, group:4) finished (TIME : 1549308084 s and 851404 us)
+
+Thread(id:21, group:5) started
+Thread(id:62, group:6) started
+Thread(id:126, group:6) started
+Thread(id:118, group:6) started8 Total_time: 121717 
+Thread_id: 79 scheduling done. New credit: 74 
+Current uthread id: 79 Running_time: 3210 Total_time: 117537 
+Load Balanced from cpu 1 to cpu 0 
+Thread_id: 17 scheduling done. New credit: -3 
+Current uthread id: 17 Running_time: 84298 Total_time: 130772 
+Thread_id: 49 scheduling done. New credit: 32 
+Current uthread id: 49 Running_time: 54156 Total_time: 149363 
+Thread_id: 56 scheduling done. New credit: -8 
+Thread id 56 Replenished 50 credits 
+Thread_id: 24 scheduling done. New credit: -33 
+Thread id 24 Replenished 25Thread_id: 113 scheduling done. New credit: 92 
+Thread id: 113 Remaining 92 credits 
+Thread_id: 57 scheduling done. New credit: -10 
+Thread_id: Thread id 12  scheduling 122 credits 
+78 
+Thread id: 121Thread id: 12  Remaining 78 credits 
+Load Balanced from cpu 4 to cpu 0 
+Thread_id: 58 scheduling done. New credit: 18 
+Thread id: 58 Remaining 18 credits 
+Thread_id: 81 scheduling done. New credit: 55 
+Thread id: 81 Remaining 55 credits 
+Thread_id: 81 scheduling done. New credit: 53 
+Current uthread id: 81 Running_time: 67887 Total_time: 191266 
+Thread_id: 113 scheduling done. New credit: 87 
+Current uthread id: 113 Running_time: 43819 Total_time: 193055 
+Thread_id: 50 scheduling done. New credit: 50 
+Thread id 50 preempted. Remaining 50 credits 
+Thread_id: 114 scheduling done. New credit: 84 
+Current uthread id: 114 Running_time: 50130 Total_time: 243886 
+Thread_id: 18 scheduling done. New credit: 2 
+Current uthread id: 18 Running_time: 71619 Total_time: 270300 
+Thread_id: 51 scheduling done. New credit: 30 
+Current uthread id: 51 Running_time: 61809 Total_time: 305843 
+Thread_id: 82 scheduling done. New credit: 55 
+Current uthread id: 82 Running_time: 61027 Total_time: 323929 
+Thread_id: 115 scheduling done. New credit: 87 
+Current uthread id: 115 Running_time: 40629 Total_time: 346342 
+Thread_id: 122 scheduling done. New credit: 13 
+Thread id: 122 Remaining 13 credits 
+Thread_id: 59 scheduling done. New credit: -18 
+Thread id 59 Replenished 50 credits 
+Thread_id: 58 scheduling done. New credit: -47 
+Thread id 58 Replenished 50 credits 
+Load Balanced from cpu 3 to cpu 0 
+Thread_id: 60 scheduling done. New credit: 50 
+Thread id 60 preempted. Remaining 50 credits 
+Thread_id: 88 scheduling done. New credit: 6 
+Thread id: 88 Remaining 6 credits 
+Thread_id: 52 scheduling done. New credit: 37 
+Thread id: 52 Remaining 37 credits 
+Thread_id: 19 scheduling done. New credit: 4 
+Thread id: 19 Remaining 4 credits 
+Thread_id: 123 scheduling done. New credit: 29 
+Thread id: 123 Remaining 29 credits 
+Thread_id: 121 scheduling done. New credit: -30 
+Thread id 121 Replenished 100 credits 
+Load Balanced from cpu 6 to cpu 0 
+Thread_id: 116 scheduling done. New credit: 79 
+Current uthread id: 116 Running_time: 63575 Total_time: 449329 
+Thread_id: 52 scheduling done. New credit: 36 
+Current uthread id: 52 Running_time: 44028 Total_time: 454108 
+Thread_id: 83 scheduling done. New credit: 51 
+Current uthread id: 83 Running_time: 74156 Total_time: 462059 
+Thread_id: 19 scheduling done. New credit: 2 
+Current uthread id: 19 Running_time: 70014 Total_time: 475529 
+Thread_id: 20 scheduling done. New credit: 25 
+Thread id 20 preempted. Remaining 25 credits 
+Thread_id: 53 scheduling done. New credit: 36 
+Current uthread id: 53 Running_time: 44937 Total_time: 499064 
+Thread_id: 117 scheduling done. New credit: 81 
+Current uthread id: 117 Running_time: 57085 Total_time: 556021 
+Thread_id: 84 scheduling done. New credit: 42 
+Current uthread id: 84 Running_time: 99770 Total_time: 567909 
+Thread_id: 123 scheduling done. New credit: -32 
+Thread id 123 Replenished 100 credits 
+Load Balanced from cpu 4 to cpu 0 
+Thread_id: 61 scheduling done. New credit: -17 
+Thread id 61 Replenished 50 credits 
+Thread_id: 125 scheduling done. New credit: 39 
+Thread id: 125 Remaining 39 credits 
+Thread_id: 54 scheduling done. New credit: 41 
+Thread id: 54 Remaining 41 credits 
+Thread_id: 88 scheduling done. New credit: -63 
+Thread id 88 Replenished 75 credits 
+Thread_id: 124 scheduling done. New credit: 30 
+Thread id: 124 Remaining 30 credit
+Thread(id:25, group:1) started
+Thread(id:63, group:7) started
+Thread(id:85, group:5) started
+Thread(id:118, group:6) finished (TIME : 1549308084 s and 937461 us)
+
+Thread(id:54, group:6) finished (TIME : 1549308084 s and 957827 us)
+
+Thread(id:55, group:7) started
+Thread(id:85, group:5) finished (TIME : 1549308084 s and 988060 us)
+
+Thread(id:21, group:5) finished (TIME : 1549308085 s and 11909 us)
+
+Thread(id:22, group:6) started
+Thread(id:55, group:7) finished (TIME : 1549308085 s and 49006 us)
+
+Thread(id:119, group:7) started
+Thread(id:86, group:6) started
+Thread(id:127, group:7) started
+Thread(id:89, group:1) started
+Thread(id:22, group:6) finished (TIME : 1549308085 s and 101988 us)
+
+Thread(id:23, group:7) started
+Thread(id:122, group:2) finished (TIME : 1549308085 s and 104184 us)
+
+Thread(id:10, group:2) finished (TIME : 1549308085 s and 107199 us)
+
+Thread(id:119, group:7) finished (TIME : 1549308085 s and 133748 us)
+
+Thread(id:87, group:7) started
+Thread(id:86, group:6) finished (TIME : 1549308085 s and 150107 us)
+
+Thread(id:26, group:2) started
+Thread(id:23, group:7) finished (TIME : 1549308085 s and 161859 us)
+
+Thread(id:90, group:2) started
+Thread(id:27, group:3) started
+Thread(id:87, group:7) finished (TIME : 1549308085 s and 195751 us)
+
+Thread(id:91, group:3) started
+Thread(id:28, group:4) started
+Thread(id:126, group:6) finished (TIME : 1549308085 s and 314996 us)
+
+Thread(id:92, group:4) started
+Thread(id:59, group:3) finished (TIME : 1549308085 s and 470965 us)
+
+Thread(id:29, group:5) started
+Thread(id:30, group:6) started
+Thread(id:93, group:5) starteds 
+Thread_id: 122 scheduling done. New credit: -59 
+Thread id 122 Replenished 100 credits 
+Load Balanced from cpu 1 to cpu 0 
+Thread_id: 21 scheduling done. New credit: 14 
+Thread id: 21 Remaining 14 credits 
+Thread_id: 118 scheduling done. New credit: 83 
+Current uthread id: 118 Running_time: 52110 Total_time: 635953 
+Thread_id: 54 scheduling done. New credit: 35 
+Current uthread id: 54 Running_time: 47943 Total_time: 656253 
+Thread_id: 85 scheduling done. New credit: 48 
+Current uthread id: 85 Running_time: 81830 Total_time: 685732 
+Thread_id: 21 scheduling done. New credit: 7 
+Current uthread id: 21 Running_time: 59836 Total_time: 717006 
+Thread_id: 55 scheduling done. New credit: 16 
+Current uthread id: 55 Running_time: 103786 Total_time: 760050 
+Thread_id: 22 scheduling done. New credit: 3 
+Thread id: 22 Remaining 3 credits 
+Thread_id: 25 scheduling done. New credit: -36 
+Thread id 25 Replenished Th credits Thread_id: 126 scheduling done. New credit: 12 
+ scheduling done. New credit: 126-537 cThread id: 119Thread id 95 Replenished 100 credits 
+Load Balanced from cpu 3 to cpu 0 
+Thread_id: 63 scheduling done. New credit: -9 
+Thread id 63 Replenished 50 credits 
+Thread_id: 10 scheduling done. New credit: 25 
+Thread id 10 preempted. Remaining 25 credits 
+Thread_id: 62 scheduling done. New credit: -16 
+Thread id 62 Replenished 50 credits 
+Load Balanced from cpu 4 to cpu 2 
+Thread_id: 125 scheduling done. New credit: -31 
+Thread id 125 Replenished 100 credits 
+Load Balanced from cpu 6 to cpu 3 
+Thread_id: 22 scheduling done. New credit: 2 
+Current uthread id: 22 Running_time: 70893 Total_time: 807924 
+Load Balanced from cpu 6 to cpu 3 
+Thread_id: 122 scheduling done. New credit: 92 
+Current uthread id: 122 Running_time: 504390 Total_time: 801761 
+Thread_id: 10 scheduling done. New credit: 24 
+Current uthread id: 10 Running_time: 3022 Total_time: 812294 
+Thread_id: 119 scheduling done. New credit: 77 
+Current uthread id: 119 Running_time: 71409 Total_time: 831340 
+Load Balanced from cpu 7 to cpu 3 
+Thread_id: 86 scheduling done. New credit: 52 
+Current uthread id: 86 Running_time: 71877 Total_time: 847771 
+Load Balanced from cpu 5 to cpu 4 
+Thread_id: 23 scheduling done. New credit: 3 
+Current uthread id: 23 Running_time: 67426 Total_time: 875359 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 90 scheduling done. New credit: 75 
+Thread id 90 preempted. Remaining 75 credits 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 87 scheduling done. New credit: 55 
+Current uthread id: 87 Running_time: 61975 Total_time: 893405 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 126 scheduling done. New credit: -29 
+Thread id 126 Replenished 100 credits 
+Load Balanced from cpu 1 to cpu 0 
+Thread_id: Thread_id:  scheduling done. New credit: 44 
+127 scheduling done. New credit: 30 
+91 Remaining 127 Remaining  credits 
+30 credits 
+Thread_id: 89 scheduling done. New credit: 5 
+Thread id: 89 Remaining 5 credits 
+Thread_id: 63 scheduling done. New credit: -21 
+Thread id 63 Replenished 50 credits 
+Load Balanced from cpu 4 to cpu 0 
+Thread_id: 2760 scheduling done. New credit: 50-Th 
+60 preempt275025 credits 
+Load Balanced from cpu 4 to cpu 0 
+Load Balanced from cpu 6 to cpu 0 
+Thread_id: 26 scheduling done. New credit: -25 
+Thread id 26 Replenished 25 credits 
+Load Balanced from cpu 5 to cpu 4 
+Thread_id: 126 scheduling done. New credit: 96 
+Current uthread id: 126 Running_time: 405405 Total_time: 1013213 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 59 scheduling done. New credit: -14 
+Current uthread id: 59 Running_time: 396721 Total_time: 1168682 
+Thread_id: 28 scheduling done. New credit: -33-
+Th 
+288925 credits 
+75 credits 
+Thread_id: 91 scheduling done. New credit: -18 
+Thread id 91 Replenished 75 credits 
+Load Balanced from cpu 5 to cpu 4 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 56 scheduling done. New credit: -17 
+Thread id 56 Replenished 50 credits 
+Thread_id: 61 scheduling done. New credit: -9 
+Thread id 12  scheduling -3  
+Thread id 127 Replenished 100 credits 
+Load Balanced from cpu 3 to cpu 1 
+Thread_id: 0 scheduling done. New Thread_id: 30 scheduling done. New credit: 16 
+Thread id 30 preempted. Remaining 16 credits 
+Load Balanced from cpu 7 to cpu 1 
+read_id: 21 scheduling done. New credit: 14 
+Thread id: 21 Remaining 14 credits 
+Thread_id: 118 scheduling done. New credit: 83 
+Current uthread id: 118 Running_time: 52110 Total_time: 635953 
+Thread_id: 54 scheduling done. New credit: 35 
+Current uthread id: 54 Running_time: 47943 Total_time: 656253 
+Thread_id: 85 scheduling done. New credit: 48 
+Current uthread id: 85 Running_time: 81830 Total_time: 685732 
+Thread_id: 21 scheduling done. New credit: 7 
+Current uthread id: 21 Running_time: 59836 Total_time: 717006 
+Thread_id: 55 scheduling done. New credit: 16 
+Current uthread id: 55 Running_time: 103786 Total_time: 760050 
+Thread_id: 22 scheduling done. New credit: 3 
+Thread id: 22 Remaining 3 credits 
+Thread_id: 25 scheduling done. New credit: -36 
+Thread id 25 Replenished Th credits Thread_id: 126 scheduling done. New credit: 12 
+ scheduling done. New credit: 126-537 cThread id: 119Thread id 95 Replenished 100 credits 
+Load Balanced from cpu 3 to cpu 0 
+Thread_id: 63 scheduling done. New credit: -9 
+Thread id 63 Replenished 50 credits 
+Thread_id: 10 scheduling done. New credit: 25 
+Thread id 10 preempted. Remaining 25 credits 
+Thread_id: 62 scheduling done. New credit: -16 
+Thread id 62 Replenished 50 credits 
+Load Balanced from cpu 4 to cpu 2 
+Thread_id: 125 scheduling done. New credit: -31 
+Thread id 125 Replenished 100 credits 
+Load Balanced from cpu 6 to cpu 3 
+Thread_id: 22 scheduling done. New credit: 2 
+Current uthread id: 22 Running_time: 70893 Total_time: 807924 
+Load Balanced from cpu 6 to cpu 3 
+Thread_id: 122 scheduling done. New credit: 92 
+Current uthread id: 122 Running_time: 504390 Total_time: 801761 
+Thread_id: 10 scheduling done. New credit: 24 
+Current uthread id: 10 Running_time: 3022 Total_time: 812294 
+Thread_id: 119 scheduling done. New credit: 77 
+Current uthread id: 119 Running_time: 71409 Total_time: 831340 
+Load Balanced from cpu 7 to cpu 3 
+Thread_id: 86 scheduling done. New credit: 52 
+Current uthread id: 86 Running_time: 71877 Total_time: 847771 
+Load Balanced from cpu 5 to cpu 4 
+Thread_id: 23 scheduling done. New credit: 3 
+Current uthread id: 23 Running_time: 67426 Total_time: 875359 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 90 scheduling done. New credit: 75 
+Thread id 90 preempted. Remaining 75 credits 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 87 scheduling done. New credit: 55 
+Current uthread id: 87 Running_time: 61975 Total_time: 893405 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 126 scheduling done. New credit: -29 
+Thread id 126 Replenished 100 credits 
+Load Balanced from cpu 1 to cpu 0 
+Thread_id: Thread_id:  scheduling done. New credit: 44 
+127 scheduling done. New credit: 30 
+91 Remaining 127 Remaining  credits 
+30 credits 
+Thread_id: 89 scheduling done. New credit: 5 
+Thread id: 89 Remaining 5 credits 
+Thread_id: 63 scheduling done. New credit: -21 
+Thread id 63 Replenished 50 credits 
+Load Balanced from cpu 4 to cpu 0 
+Thread_id: 2760 scheduling done. New credit: 50-Th 
+60 preempt275025 credits 
+Load Balanced from cpu 4 to cpu 0 
+Load Balanced from cpu 6 to cpu 0 
+Thread_id: 26 scheduling done. New credit: -25 
+Thread id 26 Replenished 25 credits 
+Load Balanced from cpu 5 to cpu 4 
+Thread_id: 126 scheduling done. New credit: 96 
+Current uthread id: 126 Running_time: 405405 Total_time: 1013213 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 59 scheduling done. New credit: -14 
+Current uthread id: 59 Running_time: 396721 Total_time: 1168682 
+Thread_id: 28 scheduling done. New credit: -33-
+Th 
+288925 credits 
+75 credits 
+Thread_id: 91 scheduling done. New credit: -18 
+Thread id 91 Replenished 75 credits 
+Load Balanced from cpu 5 to cpu 4 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 56 scheduling done. New credit: -17 
+Thread id 56 Replenished 50 credits 
+Thread_id: 61 scheduling done. New credit: -9 
+Thread id 12  scheduling -3  
+Thread id 127 Replenished 100 credits 
+Load Balanced from cpu 3 to cpu 1 
+Thread_id: 0 scheduling done. New credit: 25 
+Thread id 0 preempted. Remaining 25 credits 
+30 preempted. Remaining 16 credits 
+Load Balanced from cpu 7 to cpu 1 
+read_id: 21 scheduling done. New credit: 14 
+Thread id: 21 Remaining 14 credits 
+Thread_id: 118 scheduling done. New credit: 83 
+Current uthread id: 118 Running_time: 52110 Total_time: 635953 
+Thread_id: 54 scheduling done. New credit: 35 
+Current uthread id: 54 Running_time: 47943 Total_time: 656253 
+Thread_id: 85 scheduling done. New credit: 48 
+Current uthread id: 85 Running_time: 81830 Total_time: 685732 
+Thread_id: 21 scheduling done. New credit: 7 
+Current uthread id: 21 Running_time: 59836 Total_time: 717006 
+Thread_id: 55 scheduling done. New credit: 16 
+Current uthread id: 55 Running_time: 103786 Total_time: 760050 
+Thread_id: 22 scheduling done. New credit: 3 
+Thread id: 22 Remaining 3 credits 
+Thread_id: 25 scheduling done. New credit: -36 
+Thread id 25 Replenished Th credits Thread_id: 126 scheduling done. New credit: 12 
+ scheduling done. New credit: 126-537 cThread id: 119Thread id 95 Replenished 100 credits 
+Load Balanced from cpu 3 to cpu 0 
+Thread_id: 63 scheduling done. New credit: -9 
+Thread id 63 Replenished 50 credits 
+Thread_id: 10 scheduling done. New credit: 25 
+Thread id 10 preempted. Remaining 25 credits 
+Thread_id: 62 scheduling done. New credit: -16 
+Thread id 62 Replenished 50 credits 
+Load Balanced from cpu 4 to cpu 2 
+Thread_id: 125 scheduling done. New credit: -31 
+Thread id 125 Replenished 100 credits 
+Load Balanced from cpu 6 to cpu 3 
+Thread_id: 22 scheduling done. New credit: 2 
+Current uthread id: 22 Running_time: 70893 Total_time: 807924 
+Load Balanced from cpu 6 to cpu 3 
+Thread_id: 122 scheduling done. New credit: 92 
+Current uthread id: 122 Running_time: 504390 Total_time: 801761 
+Thread_id: 10 scheduling done. New credit: 24 
+Current uthread id: 10 Running_time: 3022 Total_time: 812294 
+Thread_id: 119 scheduling done. New credit: 77 
+Current uthread id: 119 Running_time: 71409 Total_time: 831340 
+Load Balanced from cpu 7 to cpu 3 
+Thread_id: 86 scheduling done. New credit: 52 
+Current uthread id: 86 Running_time: 71877 Total_time: 847771 
+Load Balanced from cpu 5 to cpu 4 
+Thread_id: 23 scheduling done. New credit: 3 
+Current uthread id: 23 Running_time: 67426 Total_time: 875359 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 90 scheduling done. New credit: 75 
+Thread id 90 preempted. Remaining 75 credits 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 87 scheduling done. New credit: 55 
+Current uthread id: 87 Running_time: 61975 Total_time: 893405 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 126 scheduling done. New credit: -29 
+Thread id 126 Replenished 100 credits 
+Load Balanced from cpu 1 to cpu 0 
+Thread_id: Thread_id:  scheduling done. New credit: 44 
+127 scheduling done. New credit: 30 
+91 Remaining 127 Remaining  credits 
+30 credits 
+Thread_id: 89 scheduling done. New credit: 5 
+Thread id: 89 Remaining 5 credits 
+Thread_id: 63 scheduling done. New credit: -21 
+Thread id 63 Replenished 50 credits 
+Load Balanced from cpu 4 to cpu 0 
+Thread_id: 2760 scheduling done. New credit: 50-Th 
+60 preempt275025 credits 
+Load Balanced from cpu 4 to cpu 0 
+Load Balanced from cpu 6 to cpu 0 
+Thread_id: 26 scheduling done. New credit: -25 
+Thread id 26 Replenished 25 credits 
+Load Balanced from cpu 5 to cpu 4 
+Thread_id: 126 scheduling done. New credit: 96 
+Current uthread id: 126 Running_time: 405405 Total_time: 1013213 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 59 scheduling done. New credit: -14 
+Current uthread id: 59 Running_time: 396721 Total_time: 1168682 
+Thread_id: 28 scheduling done. New credit: -33-
+Th 
+288925 credits 
+75 credits 
+Thread_id: 91 scheduling done. New credit: -18 
+Thread id 91 Replenished 75 credits 
+Load Balanced from cpu 5 to cpu 4 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 56 scheduling done. New credit: -17 
+Thread id 56 Replenished 50 credits 
+Thread_id: 61 scheduling done. New credit: -9 
+Thread id 12  scheduling -3  
+Thread id 127 Replenished 100 credits 
+Load Balanced from cpu 3 to cpu 1 
+Thread_id: 0 scheduling done. New 
+Thread(id:56, group:0) finished (TIME : 1549308085 s and 492050 us)
+Thread_id: 120 scheduling done. New credit: 100 
+Thread id 120 preempted. Remaining 100 credits 
+Load Balanced from cpu 3 to cpu 1 
+Thread_id: 56 scheduling done. New credit: 42 
+Current uthread id: 56 Running_time: 403823 Total_time: 1204018 
+ credit: 83 
+Current uthread id: 118 Running_time: 52110 Total_time: 635953 
+Thread_id: 54 scheduling done. New credit: 35 
+Current uthread id: 54 Running_time: 47943 Total_time: 656253 
+Thread_id: 85 scheduling done. New credit: 48 
+Current uthread id: 85 Running_time: 81830 Total_time: 685732 
+Thread_id: 21 scheduling done. New credit: 7 
+Current uthread id: 21 Running_time: 59836 Total_time: 717006 
+Thread_id: 55 scheduling done. New credit: 16 
+Current uthread id: 55 Running_time: 103786 Total_time: 760050 
+Thread_id: 22 scheduling done. New credit: 3 
+Thread id: 22 Remaining 3 credits 
+Thread_id: 25 scheduling done. New credit: -36 
+Thread id 25 Replenished Th credits Thread_id: 126 scheduling done. New credit: 12 
+ scheduling done. New credit: 126-537 cThread id: 119Thread id 95 Replenished 100 credits 
+Load Balanced from cpu 3 to cpu 0 
+Thread_id: 63 scheduling done. New credit: -9 
+Thread id 63 Replenished 50 credits 
+Thread_id: 10 scheduling done. New credit: 25 
+Thread id 10 preempted. Remaining 25 credits 
+Thread_id: 62 scheduling done. New credit: -16 
+Thread id 62 Replenished 50 credits 
+Load Balanced from cpu 4 to cpu 2 
+Thread_id: 125 scheduling done. New credit: -31 
+Thread id 125 Replenished 100 credits 
+Load Balanced from cpu 6 to cpu 3 
+Thread_id: 22 scheduling done. New credit: 2 
+Current uthread id: 22 Running_time: 70893 Total_time: 807924 
+Load Balanced from cpu 6 to cpu 3 
+Thread_id: 122 scheduling done. New credit: 92 
+Current uthread id: 122 Running_time: 504390 Total_time: 801761 
+Thread_id: 10 scheduling done. New credit: 24 
+Current uthread id: 10 Running_time: 3022 Total_time: 812294 
+Thread_id: 119 scheduling done. New credit: 77 
+Current uthread id: 119 Running_time: 71409 Total_time: 831340 
+Load Balanced from cpu 7 to cpu 3 
+Thread_id: 86 scheduling done. New credit: 52 
+Current uthread id: 86 Running_time: 71877 Total_time: 847771 
+Load Balanced from cpu 5 to cpu 4 
+Thread_id: 23 scheduling done. New credit: 3 
+Current uthread id: 23 Running_time: 67426 Total_time: 875359 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 90 scheduling done. New credit: 75 
+Thread id 90 preempted. Remaining 75 credits 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 87 scheduling done. New credit: 55 
+Current uthread id: 87 Running_time: 61975 Total_time: 893405 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 126 scheduling done. New credit: -29 
+Thread id 126 Replenished 100 credits 
+Load Balanced from cpu 1 to cpu 0 
+Thread_id: Thread_id:  scheduling done. New credit: 44 
+127 scheduling done. New credit: 30 
+91 Remaining 127 Remaining  credits 
+30 credits 
+Thread_id: 89 scheduling done. New credit: 5 
+Thread id: 89 Remaining 5 credits 
+Thread_id: 63 scheduling done. New credit: -21 
+Thread id 63 Replenished 50 credits 
+Load Balanced from cpu 4 to cpu 0 
+Thread_id: 2760 scheduling done. New credit: 50-Th 
+60 preempt275025 credits 
+Load Balanced from cpu 4 to cpu 0 
+Load Balanced from cpu 6 to cpu 0 
+Thread_id: 26 scheduling done. New credit: -25 
+Thread id 26 Replenished 25 credits 
+Load Balanced from cpu 5 to cpu 4 
+Thread_id: 126 scheduling done. New credit: 96 
+Current uthread id: 126 Running_time: 405405 Total_time: 1013213 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 59 scheduling done. New credit: -14 
+Current uthread id: 59 Running_time: 396721 Total_time: 1168682 
+Thread_id: 28 scheduling done. New credit: -33-
+Th 
+288925 credits 
+75 credits 
+Thread_id: 91 scheduling done. New credit: -18 
+Thread id 91 Replenished 75 credits 
+Load Balanced from cpu 5 to cpu 4 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 56 scheduling done. New credit: -17 
+Thread id 56 Replenished 50 credits 
+Thread_id: 61 scheduling done. New credit: -9 
+Thread id 12  scheduling -3  
+Thread id 127 Replenished 100 credits 
+Load Balanced from cpu 3 to cpu 1 
+Thread_id: 0 scheduling done. New 
+Thread(id:123, group:3) finished (TIME : 1549308085 s and 665245 us)
+
+Thread(id:61, group:5) finished (TIME : 1549308085 s and 773169 us)
+
+Thread(id:57, group:1) finished (TIME : 1549308085 s and 776454 us)
+
+Thread(id:92, group:4) finished (TIME : 1549308085 s and 906268 us)
+
+Thread(id:94, group:6) started
+Thread(id:60, group:4) finished (TIME : 1549308085 s and 914482 us)
+
+Thread(id:63, group:7) finished (TIME : 1549308085 s and 918909 us)
+
+Thread(id:31, group:7) started
+Thread(id:93, group:5) finished (TIME : 1549308086 s and 57777 us)
+
+Thread(id:95, group:7) started
+Thread(id:29, group:5) finished (TIME : 1549308086 s and 106437 us)
+
+Thread(id:62, group:6) finished (TIME : 1549308086 s and 152225 us)
+
+Thread(id:0, group:0) finished (TIME : 1549308086 s and 178608 us)
+
+Thread(id:70, group:6) finished (TIME : 1549308086 s and 178990 us)
+
+Thread(id:31, group:7) finished (TIME : 1549308086 s and 343836 us)
+
+Thread(id:120, group:0) finished (TIME : 1549308086 s and 406501 us)
+
+Thread(id:88, group:0) finished (TIME : 1549308086 s and 479784 us)
+
+Thread(id:94, group:6) finished (TIME : 1549308086 s and 494538 us)
+
+Thread(id:24, group:0) finished (TIME : 1549308086 s and 501007 us)
+
+Thread(id:95, group:7) finished (TIME : 1549308086 s and 501122 us)
+
+Thread(id:58, group:2) finished (TIME : 1549308086 s and 529830 us)
+
+Thread(id:124, group:4) finished (TIME : 1549308086 s and 567016 us)
+
+Thread(id:127, group:7) finished (TIME : 1549308086 s and 592575 us)
+
+Thread(id:40, group:0) finished (TIME : 1549308086 s and 603482 us)
+
+Thread(id:110, group:6) finished (TIME : 1549308086 s and 615503 us)
+
+Thread(id:89, group:1) finished (TIME : 1549308086 s and 642924 us)
+
+Thread(id:25, group:1) finished (TIME : 1549308086 s and 733052 us)
+
+Thread(id:121, group:1) finished (TIME : 1549308086 s and 788413 us)
+
+Thread(id:26, group:2) finished (TIME : 1549308086 s and 822869 us)
+
+Thread(id:80, group:0) finished (TIME : 1549308086 s and 868176 us)
+Thread_id: 92 scheduling done. New credit: 16 
+Thread id: 92 Remaining 16 credits 
+Thread_id: 123 scheduling done. New credit: 48 
+Current uthread id: 123 Running_time: 558968 Total_time: 1362821 
+Thread_id: 61 scheduling done. New credit: 15 
+Current uthread id: 61 Running_time: 491882 Total_time: 1470879 
+Thread_id: 70 scheduling done. New credit: 75 
+Thread id 70 preempted. Remaining 75 credits 
+Thread_id: 57 scheduling done. New credit: -40 
+Current uthread id: 57 Running_time: 450209 Total_time: 1474175 
+Load Balanced from cpu 7 to cpu 1 
+Thread_id: 92 scheduling done. New credit: -117 
+Current uthread id: 92 Running_time: 578533 Total_time: 1603924 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 60 scheduling done. New credit: -86 
+Current uthread id: 60 Running_time: 408209 Total_time: 1612201 
+Thread_id: 63 scheduling done. New credit: 3 
+Current uthread id: 63 Running_time: 538321 Total_time: 1616608 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 40 scheduling done. New credit: 50 
+Thread id 40 preempted. Remaining 50 credits 
+Thread_id: 93 scheduling done. New credit: -118 
+Current uthread id: 93 Running_time: 579538 Total_time: 1755432 
+Load Balanced from cpu 5 to cpu 4 
+Thread_id: 29 scheduling done. New credit: -184 
+Current uthread id: 29 Running_time: 628855 Total_time: 1812144 
+Thread_id: 62 scheduling done. New credit: -76 
+Current uthread id: 62 Running_time: 579032 Total_time: 1849931 
+Thread_id: 0 scheduling done. New credit: 25 
+Current uthread id: 0 Running_time: 409 Total_time: 1883717 
+Thread_id: 70 scheduling done. New credit: 75 
+Current uthread id: 70 Running_time: 391 Total_time: 1876680 
+Thread_id: 31 scheduling done. New credit: -115 
+Current uthread id: 31 Running_time: 422150 Total_time: 2048893 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 120 scheduling done. New credit: -61 
+Current uthread id: 120 Running_time: 484340 Total_time: 2104143 
+Thread_id: 88 scheduling done. New credit: 30 
+Current uthread id: 88 Running_time: 551916 Total_time: 2177447 
+Load Balanced from cpu 7 to cpu 4 
+Thread_id: 94 scheduling done. New credit: -121 
+Current uthread id: 94 Running_time: 588245 Total_time: 2192183 
+Load Balanced from cpu 6 to cpu 4 
+Thread_id: 24 scheduling done. New credit: -107 
+Current uthread id: 24 Running_time: 574662 Total_time: 2210832 
+Thread_id: 95 scheduling done. New credit: -77 
+Current uthread id: 95 Running_time: 456439 Total_time: 2211871 
+Thread_id: 80 scheduling done. New credit: 75 
+Thread id 80 preempted. Remaining 75 credits 
+Thread_id: 58 scheduling done. New credit: 9 
+Current uthread id: 58 Running_time: 417305 Total_time: 2227546 
+Load Balanced from cpu 4 to cpu 3 
+Thread_id: 20 scheduling done. New credit: 25 
+Thread id 20 preempted. Remaining 25 credits 
+Load Balanced from cpu 4 to cpu 3 
+Thread_id: 124 scheduling done. New credit: 88 
+Current uthread id: 124 Running_time: 433124 Total_time: 2264597 
+Thread_id: 110 scheduling done. New credit: 100 
+Thread id 110 preempted. Remaining 100 credits 
+Thread_id: 127 scheduling done. New credit: 92 
+Current uthread id: 127 Running_time: 429521 Total_time: 2290148 
+Thread_id: 40 scheduling done. New credit: 47 
+Current uthread id: 40 Running_time: 10977 Total_time: 2301311 
+Thread_id: 110 scheduling done. New credit: 97 
+Current uthread id: 110 Running_time: 11952 Total_time: 2313102 
+Thread_id: 89 scheduling done. New credit: 26 
+Current uthread id: 89 Running_time: 548359 Total_time: 2340580 
+Thread_id: 25 scheduling done. New credit: -59 
+Current uthread id: 25 Running_time: 437257 Total_time: 2438130 
+Load Balanced from cpu 7 to cpu 5 
+Thread_id: 90 scheduling done. New credit: 75 
+Thread id 90 preempted. Remaining 75 credits 
+Load Balanced from cpu 7 to cpu 5 
+Thread_id: 121 scheduling done. New credit: 52 
+Current uthread id: 121 Running_time: 536549 Total_time: 2485991 
+Thread_id: 100 scheduling done. New credit: 100 
+Thread id 100 preempted. Remaining 100 credits 
+Thread_id: 26 scheduling done. New credit: -77 
+Current uthread id: 26 Running_time: 460714 Total_time: 2527919 
+Thread_id: 80 scheduling done. New cre
+Thread(id:28, group:4) finished (TIME : 1549308086 s and 882095 us)
+
+Thread(id:20, group:4) finished (TIME : 1549308086 s and 961217 us)
+
+Thread(id:125, group:5) finished (TIME : 1549308086 s and 985646 us)
+
+Thread(id:100, group:4) finished (TIME : 1549308086 s and 986058 us)
+
+Thread(id:27, group:3) finished (TIME : 1549308087 s and 11157 us)
+
+Thread(id:90, group:2) finished (TIME : 1549308087 s and 368375 us)
+
+Thread(id:91, group:3) finished (TIME : 1549308087 s and 489185 us)
+
+Thread(id:50, group:2) finished (TIME : 1549308087 s and 534875 us)
+
+Thread(id:30, group:6) finished (TIME : 1549308087 s and 878483 us)
+Quitting kthread (3)
+Quitting kthread (5)
+Quitting kthread (2)
+Quitting kthread (7)
+Quitting kthread (1)
+Quitting kthread (0)
+Quitting kthread (6)
+dit: 60 
+Current uthread id: 80 Running_time: 45306 Total_time: 2565839 
+Thread_id: 28 scheduling done. New credit: -91 
+Current uthread id: 28 Running_time: 525812 Total_time: 2587141 
+Load Balanced from cpu 2 to cpu 1 
+Thread_id: 20 scheduling done. New credit: 5 
+Current uthread id: 20 Running_time: 60068 Total_time: 2675354 
+Thread_id: 125 scheduling done. New credit: 35 
+Current uthread id: 125 Running_time: 593216 Total_time: 2683223 
+Thread_id: 100 scheduling done. New credit: 100 
+Current uthread id: 100 Running_time: 395 Total_time: 2683670 
+Thread_id: 27 scheduling done. New credit: -67 
+Current uthread id: 27 Running_time: 409341 Total_time: 2716218 
+Thread_id: 50 scheduling done. New credit: 50 
+Thread id 50 preempted. Remaining 50 credits 
+Thread_id: 90 scheduling done. New credit: -44 
+Current uthread id: 90 Running_time: 357837 Total_time: 3066028 
+Thread_id: 91 scheduling done. New credit: 35 
+Current uthread id: 91 Running_time: 403270 Total_time: 3186832 
+Thread_id: 30 scheduling done. New credit: 16 
+Thread id 30 preempted. Remaining 16 credits 
+Thread_id: 50 scheduling done. New credit: 35 
+Current uthread id: 50 Running_time: 46364 Total_time: 3232602 
+Thread_id: 30 scheduling done. New credit: -98 
+Current uthread id: 30 Running_time: 371608 Total_time: 3583531 
+
+ Process id: 0 credits: 25 matrix_size: 32 mean_run_time 1313.500000 mean_total_time 240390.125000 std_run_time 2393.236328 std_total_time 621134.687500
+ Process id: 1 credits: 25 matrix_size: 64 mean_run_time 8085.250000 mean_total_time 166234.375000 std_run_time 5043.556152 std_total_time 245957.906250
+ Process id: 2 credits: 25 matrix_size: 128 mean_run_time 65412.000000 mean_total_time 749837.250000 std_run_time 12248.708008 std_total_time 783502.812500
+ Process id: 3 credits: 25 matrix_size: 256 mean_run_time 478799.875000 mean_total_time 2490601.000000 std_run_time 83286.406250 std_total_time 499066.875000
+ Process id: 4 credits: 50 matrix_size: 32 mean_run_time 316.250000 mean_total_time 6308.125000 std_run_time 23.647146 std_total_time 1230.087769
+ Process id: 5 credits: 50 matrix_size: 64 mean_run_time 6476.875000 mean_total_time 332045.875000 std_run_time 3129.709961 std_total_time 744594.625000
+ Process id: 6 credits: 50 matrix_size: 128 mean_run_time 54542.625000 mean_total_time 761821.250000 std_run_time 20129.621094 std_total_time 960963.437500
+ Process id: 7 credits: 50 matrix_size: 256 mean_run_time 460687.750000 mean_total_time 1578005.000000 std_run_time 64300.605469 std_total_time 321747.906250
+ Process id: 8 credits: 75 matrix_size: 32 mean_run_time 446.750000 mean_total_time 236622.125000 std_run_time 178.178802 std_total_time 619884.250000
+ Process id: 9 credits: 75 matrix_size: 64 mean_run_time 6854.125000 mean_total_time 69984.125000 std_run_time 4171.416504 std_total_time 28817.025391
+ Process id: 10 credits: 75 matrix_size: 128 mean_run_time 70478.500000 mean_total_time 817238.750000 std_run_time 15018.060547 std_total_time 698672.375000
+ Process id: 11 credits: 75 matrix_size: 256 mean_run_time 508017.125000 mean_total_time 2316787.000000 std_run_time 83863.742188 std_total_time 522990.406250
+ Process id: 12 credits: 100 matrix_size: 32 mean_run_time 682.500000 mean_total_time 340595.125000 std_run_time 960.272461 std_total_time 885600.000000
+ Process id: 13 credits: 100 matrix_size: 64 mean_run_time 6565.750000 mean_total_time 329491.625000 std_run_time 2912.579590 std_total_time 750095.500000
+ Process id: 14 credits: 100 matrix_size: 128 mean_run_time 54583.000000 mean_total_time 418873.250000 std_run_time 9472.337891 std_total_time 231495.031250
+ Process id: 15 credits: 100 matrix_size: 256 mean_run_time 493189.125000 mean_total_time 1875737.125000 std_run_time 63031.390625 std_total_time 667084.750000Quitting kthread (4)
