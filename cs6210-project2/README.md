@@ -1,6 +1,9 @@
 To compile the project:
+
 Go to snappy-c directory and run:
+```
 make clean && make 
+```
 
 Synchronous communication:
 ```
