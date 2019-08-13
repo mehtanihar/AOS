@@ -1,0 +1,414 @@
+Directory path: . 
+Number of segments 500 
+Size of segments 4 
+Number of threads: 3 
+Sync: 1 
+Num files: 3 
+
+Initialize shared memory
+Creating server 
+Server created! 
+Total files to read 3 
+ The size of file is 54 
+Creating thread id: 0 
+Created thread id: 0 
+
+In server
+ The size of file is 37 
+Creating thread id: 1 
+Created thread id: 1 
+client initialised 0  is_sync 1 
+Started synchronised compress, client id: 0  lock: 0
+request producer locked 
+Client 0 writing started: client 
+ The size of file is 98 
+Client id : 0 client written
+Creating thread id: 2 
+Client id : 0 memory written
+Input size: 54Client id : 0 Write complete
+Client id : 0 Lock free
+Server can start processing requests
+Server read client ID!
+Server read memory!
+Server read input buffer!
+Server will start compressing!
+First file: sample.txt
+dasdasdbb
+sadasjh
+dsadbajsbcj
+
+
+Snappy done compression!
+Writing word server
+Created thread id: 2 
+Writing client id, 0
+Writing word memory, 0
+Out size: 55 
+Writing outbuffer,
+ 6dFirst file: sample.txt
+das\bb
+sadasjh
+dsadbajsbcj
+
+
+Reading server name in server: server0000memory000000556dFirst file: sample.txt
+das\bb
+sadasjh
+dsadbajsbcj
+
+ 
+Server name read, 
+Response set, wake client 0 
+
+In server
+Response consumer in client server0000memory000000556dFirst file: sample.txt
+das\bb
+sadasjh
+dsadbajsbcj
+
+ 
+Client id at the end: 0 
+#Memory characters: m m 
+#Memory characters: e e 
+#Memory characters: m m 
+#Memory characters: o o 
+#Memory characters: r r 
+#Memory characters: y y 
+Mem size: 55 6
+55
+6 
+d 
+F 
+i 
+r 
+s 
+t 
+  
+f 
+i 
+l 
+e 
+: 
+  
+s 
+a 
+m 
+p 
+l 
+e 
+. 
+t 
+x 
+t 
+
+ 
+d 
+a 
+s 
+ 
+ 
+\ 
+b 
+b 
+
+ 
+s 
+a 
+d 
+a 
+s 
+j 
+h 
+
+ 
+d 
+s 
+a 
+d 
+b 
+a 
+j 
+s 
+b 
+c 
+j 
+
+ 
+
+ 
+************Output in client: 6dFirst file: sample.txt
+das\bb
+sadasjh
+dsadbajsbcj
+
+ 
+Client id: 0  exited. Current response thread: 0 
+./sample.txt.compressed 
+client initialised 2  is_sync 1 
+Started synchronised compress, client id: 2  lock: 0
+request producer locked 
+Client 2 writing started: client 
+Client id : 2 client written
+Client id : 2 memory written
+Input size: 98Client id : 2 Write complete
+Client id : 2 Lock free
+Server can start processing requests
+Server read client ID!
+Server read memory!
+Server read input buffer!
+Server will start compressing!
+skjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+
+Snappy done compression!
+Writing word server
+Writing client id, 2
+Writing word memory, 2
+Out size: 101 
+Writing outbuffer,
+ baskjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+
+Reading server name in server: server0002memory00000101baskjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+ 
+Server name read, 
+Response set, wake client 2 
+
+In server
+Response consumer in client server0002memory00000101baskjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+ 
+Client id at the end: 2 
+#Memory characters: m m 
+#Memory characters: e e 
+#Memory characters: m m 
+#Memory characters: o o 
+#Memory characters: r r 
+#Memory characters: y y 
+Mem size: 101 b
+101
+b 
+Hi 6dFirst file: sample.txt
+das\bb
+sadasjh
+dsadbajsbcj
+
+
+ 
+a 
+s 
+k 
+Hi
+j 
+b 
+g 
+k 
+j 
+z 
+f 
+b 
+j 
+k 
+s 
+b 
+e 
+f 
+k 
+a 
+e 
+j 
+b 
+d 
+y 
+u 
+a 
+v 
+f 
+j 
+a 
+w 
+d 
+h 
+v 
+V 
+D 
+h 
+a 
+z 
+f 
+d 
+a 
+D 
+n 
+a 
+v 
+d 
+k 
+j 
+z 
+n 
+f 
+
+ 
+s 
+f 
+x 
+b 
+s 
+k 
+j 
+x 
+g 
+k 
+z 
+n 
+f 
+a 
+k 
+n 
+j 
+e 
+f 
+k 
+z 
+
+ 
+j 
+k 
+z 
+f 
+s 
+k 
+e 
+g 
+s 
+n 
+g 
+k 
+z 
+l 
+n 
+f 
+z 
+m 
+f 
+k 
+z 
+k 
+
+ 
+
+ 
+************Output in client: baskjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+ 
+Client id: 2  exited. Current response thread: 2 
+client initialised 1  is_sync 1 
+Started synchronised compress, client id: 1  lock: 0
+request producer locked 
+Client 1 writing started: client 
+Client id : 1 client written
+Client id : 1 memory written
+Input size: 37Client id : 1 Write complete
+Client id : 1 Lock free
+Server can start processing requests
+Server read client ID!
+Server read memory!
+Server read input buffer!
+Server will start compressing!
+This is sample2.txt. Let us test it.
+
+Snappy done compression!
+Writing word server
+Writing client id, 1
+Writing word memory, 1
+Out size: 39 
+Writing outbuffer,
+ %êThis is sample2.txt. Let us test it.
+
+Reading server name in server: server0001memory00000039%êThis is sample2.txt. Let us test it.
+ 
+Server name read, 
+Response set, wake client 1 
+
+In server
+Response consumer in client server0001memory00000039%êThis is sample2.txt. Let us test it.
+ 
+Client id at the end: 1 
+#Memory characters: m m 
+#Memory characters: e e 
+#Memory characters: m m 
+#Memory characters: o o 
+#Memory characters: r r 
+#Memory characters: y y 
+Mem size: 39 %
+39
+% 
+ê 
+T 
+h 
+i 
+s 
+  
+i 
+s 
+  
+s 
+a 
+m 
+p 
+l 
+e 
+2 
+. 
+t 
+x 
+t 
+. 
+  
+L 
+e 
+t 
+  
+u 
+s 
+  
+t 
+e 
+s 
+t 
+  
+i 
+t 
+. 
+
+ 
+************Output in client: %êThis is sample2.txt. Let us test it.
+ 
+Client id: 1  exited. Current response thread: 1 
+./sample2.txt.compressed 
+Hi %êThis is sample2.txt. Let us test it.
+
+Hi
+Server exited 
+./sample3.txt.compressed 
+Hi baskjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+
+Hi
+yo===
+App exit()
+Detached and destroyed shared memory

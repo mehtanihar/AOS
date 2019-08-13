@@ -1,0 +1,286 @@
+Directory path: . 
+Number of segments 500 
+Size of segments 500 
+Number of threads: 2 
+Sync: 1 
+Num files: 5 
+
+Initialize shared memory
+Creating server 
+Server created! 
+Total files to read 5 
+Start reading files next 
+ The size of file is 54 
+ The size of file is 70 
+ The size of file is 37 
+ The size of file is 98 
+ The size of file is 36 
+files per thread3
+Creating sync with qos thread id: 0 
+Created thread id: 0 
+files per thread2
+Creating sync with qos thread id: 1 
+Created thread id: 1 
+
+In server
+client initialised 0  is_sync 1 
+Started synchronised compress with qos, client id: 0  files_pending 3
+request producer locked 
+Client id: 0 Client writing started: client 
+Client id : 0 client written
+client initialised 1  is_sync 1 
+Client id : 0 memory written
+Started synchronised compress with qos, client id: 1  files_pending 2
+Client id : 0 Write complete
+Input size is now 70 
+Client id : 0 Lock free
+request producer locked 
+Client id: 1 Client writing started: client 
+Client id : 1 client written
+Client id : 1 memory written
+Client id : 1 Write complete
+Input size is now 37 
+Client id : 1 Lock free
+Server can start processing requests
+Server read client ID!
+Server read memory!
+Server read input buffer!
+Server will start compressing!
+First file: sample.txt
+dasdasdbb
+sadasjh
+dsadbajsbcj
+
+
+Snappy done compression!
+Writing word server
+Writing client id, 0
+Writing word memory, 0
+Out size: 55 
+Writing outbuffer,
+ 6dFirst file: sample.txt
+das\bb
+sadasjh
+dsadbajsbcj
+
+
+Reading server name in server: server0000memory000000556dFirst file: sample.txt
+das\bb
+sadasjh
+dsadbajsbcj
+
+ 
+Server name read, 
+Response set, wake client 0 
+
+In server
+Server can start processing requests
+Server read client ID!
+Response consumer in client server0000memory000000556dFirst file: sample.txt
+das\bb
+sadasjh
+dsadbajsbcj
+
+ 
+Server read memory!
+@Mem size: 55 
+Server read input buffer!
+Server will start compressing!
+Now let us try compressing sample1.txt.
+It should not be a hard task.
+
+Snappy done compression!
+Writing word server
+Writing client id, 1
+Writing word memory, 1
+Out size: 73 
+Writing outbuffer,
+ FENow let us try compressing sample1.txt.
+It should not be a hard task.
+
+Assigned output size
+Client id: 0 Sent output buffers to app: 6dFirst file: sample.txt
+das\bb
+sadasjh
+dsadbajsbcj
+
+ 
+Started synchronised compress with qos, client id: 0  files_pending 2
+request producer locked 
+Client id: 0 Client writing started: client 
+Reading server name in server: server0001memory00000073FENow let us try compressing sample1.txt.
+It should not be a hard task.
+ 
+Server name read, 
+Response set, wake client 1 
+
+In server
+Response consumer in client server0001memory00000073FENow let us try compressing sample1.txt.
+It should not be a hard task.
+ 
+Client id : 0 client written
+Client id : 0 memory written
+@Mem size: 73 
+Client id : 0 Write complete
+Input size is now 98 
+Server can start processing requests
+Client id : 0 Lock free
+Server read client ID!
+Server read memory!
+Server read input buffer!
+Server will start compressing!
+This is sample2.txt. Let us test it.
+
+Snappy done compression!
+Writing word server
+Writing client id, 0
+Writing word memory, 0
+Out size: 39 
+Writing outbuffer,
+ %êThis is sample2.txt. Let us test it.
+
+Assigned output size
+Client id: 1 Sent output buffers to app: FENow let us try compressing sample1.txt.
+It should not be a hard task.
+ 
+Started synchronised compress with qos, client id: 1  files_pending 1
+Reading server name in server: server0000memory00000039%êThis is sample2.txt. Let us test it.
+ 
+Server name read, 
+Response set, wake client 0 
+
+In server
+Response consumer in client server0000memory00000039%êThis is sample2.txt. Let us test it.
+ 
+@Mem size: 39 
+Assigned output size
+Client id: 0 Sent output buffers to app: %êThis is sample2.txt. Let us test it.
+ 
+Started synchronised compress with qos, client id: 0  files_pending 1
+request producer locked 
+Client id: 1 Client writing started: client 
+Client id : 1 client written
+Client id : 1 memory written
+Client id : 1 Write complete
+Input size is now 36 
+Server can start processing requests
+Server read client ID!
+Server read memory!
+Server read input buffer!
+Server will start compressing!
+skjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+
+Snappy done compression!
+Writing word server
+Writing client id, 1
+Writing word memory, 1
+Out size: 101 
+Writing outbuffer,
+ baskjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+
+Reading server name in server: server0001memory00000101baskjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+ 
+Client id : 1 Lock free
+Server name read, 
+Response set, wake client 1 
+request producer locked 
+Client id: 0 Client writing started: client 
+Response consumer in client server0001memory00000101baskjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+ 
+Client id : 0 client written
+Client id : 0 memory written
+Client id : 0 Write complete
+Input size is now -1 
+Client id : 0 Lock free
+@Mem size: 101 
+Assigned output size
+Client id: 1 Sent output buffers to app: baskjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+ 
+
+In server
+Server can start processing requests
+Started synchronised compress with qos, client id: 1  files_pending 0
+Server read client ID!
+Server read memory!
+Server read input buffer!
+Server will start compressing!
+This is the last file to be tested.
+gsngu
+Snappy done compression!
+Writing word server
+Writing client id, 0
+Writing word memory, 0
+Out size: 38 
+Writing outbuffer,
+ $åThis is the last file to be tested.
+
+Reading server name in server: server0000memory00000038$åThis is the last file to be tested.
+ 
+Server name read, 
+Response set, wake client 0 
+
+In server
+Response consumer in client server0000memory00000038$åThis is the last file to be tested.
+ 
+@Mem size: 38 
+Assigned output size
+Client id: 0 Sent output buffers to app: $åThis is the last file to be tested.
+ 
+Started synchronised compress with qos, client id: 0  files_pending 0
+Server exited 
+sample.txt 
+./sample.txt.compressed 
+id: 0 
+++6dFirst file: sample.txt
+das\bb
+sadasjh
+dsadbajsbcj
+
+
+closed file 
+sample1.txt 
+./sample1.txt.compressed 
+id: 1 
+++FENow let us try compressing sample1.txt.
+It should not be a hard task.
+
+closed file 
+sample2.txt 
+./sample2.txt.compressed 
+id: 2 
+++%êThis is sample2.txt. Let us test it.
+
+closed file 
+sample3.txt 
+./sample3.txt.compressed 
+id: 3 
+++baskjbgkjzfbjksbefkaejbdyuavfjawdhvVDhazfdaDnavdkjznf
+sfxbskjxgkznfaknjefkz
+jkzfskegsngkzlnfzmfkzk
+
+
+closed file 
+sample4.txt 
+./sample4.txt.compressed 
+id: 4 
+++$åThis is the last file to be tested.
+
+closed file 
+yo===
+App exit()
+Detached and destroyed shared memory
